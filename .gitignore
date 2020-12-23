@@ -7,3 +7,5 @@
 # Common Meson builddirs
 _build/
 build/
+builddir/
+subprojects/
